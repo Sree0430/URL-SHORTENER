@@ -54,7 +54,7 @@ git clone https://github.com/yourusername/URL-Shortener.git
 2. Navigate into the project folder:
 
 ```bash
-cd ioss
+cd main folder_name
 ```
 
 3. Create a virtual environment:
